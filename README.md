@@ -6,7 +6,7 @@ I am Aikansh Yadav (An android developer with knowledge of MVVM Architecture). :
 
 Currently in 3rd year pursuing Integrated B.Tech + M.Tech Information Technology in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/). My aim is to develop applications which would be great like me.
 
-- :star2: Do read my resume here: [Aikansh_Yadav_Resume.pdf](https://drive.google.com/file/d/1UNRl-BNpSZpRU3RJBjRKQ7DM8fDY8hNY/view?usp=sharing).
+- :star2: Do read my resume here: [Aikansh_Yadav_Resume.pdf](https://drive.google.com/file/d/1ZNXCWwuoPrmv-SdgbT9kLZlrmZdU0XPx/view?usp=sharing).
 - :bulb: Looking for opportunities in android development.
 - 🎥: Love watching series. All time favorites are Dark, Witcher and Game of thrones.
 - :books: **Languages** - C, C++, Kotlin, Java, XML.
